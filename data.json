@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nama_barang": "Beras",
+        "jumlah": 10,
+        "satuan": "kg"
+    },
+    {
+        "id": 2,
+        "nama_barang": "Minyak Goreng",
+        "jumlah": 3,
+        "satuan": "liter"
+    }
+]
